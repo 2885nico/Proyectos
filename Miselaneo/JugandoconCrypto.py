@@ -1,3 +1,4 @@
+##Solicitamos una clave a encriptar y vemos el largo de esta clave
 clave=input("ingrese una clave a encriptar: ")
 largo=len(clave)
 
