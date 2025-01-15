@@ -29,7 +29,7 @@ for i in clave:
   
   ##generamos la cadena de la clave encriptada separando por guion
   crypted+=str(l)+'-'
-  prin(tcrypted)
+  prin(crypted)
   
   ##generamos otra cadena de la clave encriptada pero sin guion
   pripri+=l
