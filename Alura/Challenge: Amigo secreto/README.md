@@ -7,3 +7,13 @@ para esto, la aplicacion debe poder:</h4>
   <h4>- realizar a traves de un boton la seleccion aleatoria de uno de estos amigos.</h4>
   <h4>- generar los mensajes correspondientes en caso de campo vacio.</h4>
   <h4>- divertise, si o que.</h4>
+
+El proyecto funciona de la siguiente manera:
+  <h4>- Dentro del cuadro "Escribe un nombre", debes agregar el nombre del amigo para el sorteo.</h4>
+  <h4>- Con el boton "Añadir" agregaras el nombre a la lista del sorteo.</h4>
+  <h4>- Los nombres agregados se iran agregando debajo del cuadro donde agregaste el nombre.</h4>
+  <h4>- Luego que tengas todos los nombres de los amigos para el sorteo presiona el boton "Sortear amigo".</h4>
+  <h4>- Luego de presionar el boton, deberia salir una alerta anunciando al ganador.</h4>
+  <h4>- Y se limpiara la lista.</h4>
+
+Procura divertirte usando la aplicacion, come bien y duerme bien, te quiero mucho.
