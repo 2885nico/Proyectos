@@ -6,7 +6,12 @@ para esto, la aplicacion debe poder:</h4>
   <h4>- mostrar la lista de los amigos que hemos ido agregando.</h4>
   <h4>- realizar a traves de un boton la seleccion aleatoria de uno de estos amigos.</h4>
   <h4>- generar los mensajes correspondientes en caso de campo vacio.</h4>
-  <h4>- divertise, si o que.</h4>
+  <h4>- divertirse, si o que.</h4>
+
+<h4>Este proyecto se compone de tres partes</h4>
+    <h4>- Un script en javascript donde se realiza todo el tejemaneje de los datos.</h4>
+    <h4>- Un archivo en HTML que le da toda la parte estructural de la pagina.</h4>
+    <h4>- Un archivo en CSS que..bueno..., el da colorines....</h4>
 
 El proyecto funciona de la siguiente manera:
   <h4>- Dentro del cuadro "Escribe un nombre", debes agregar el nombre del amigo para el sorteo.</h4>
