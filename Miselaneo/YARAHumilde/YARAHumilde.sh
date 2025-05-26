@@ -29,7 +29,7 @@ touch $archivo
 echo "rule $nombreYARA" >> $archivo
 echo "{" >> $archivo
 echo "  meta:" >> $archivo
-echo "          author = $creadorYARA" >> $archivo
+echo "          author = $creadorYARA (($whoami))" >> $archivo
 echo "          disclaimer = $disclaimerYARA" >> $archivo
 echo "          description = $descripcionYARA" >> $archivo
 
@@ -54,3 +54,5 @@ echo -e "agrega la condicion de aplicabilidad para esta regla YARA: "
 read condicionYARA
 echo "          $condicionYARA"  >> $archivo
 echo "}" >> $archivo
+
+cat $archivo
